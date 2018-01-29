@@ -2,7 +2,7 @@
 INNOVATIVE  INTELLIGENT  INSPIRING
 
 
-Build
+Build (Ubuntu 16.04 Tested)
 ```
 sudo apt-get update
 ```
